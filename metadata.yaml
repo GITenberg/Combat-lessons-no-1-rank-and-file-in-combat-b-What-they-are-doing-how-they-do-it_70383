@@ -1,5 +1,8 @@
 _repo: Combat-lessons-no-1-rank-and-file-in-combat-b-What-they-are-doing-how-they-do-it_70383
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70383-h/images/cover.jpg
 creator:
   author:
     agent_name: United States. War Department
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3745
     wikipedia: https://en.wikipedia.org/wiki/United_States_Department_of_War
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70383#Combat-lessons-no-1-rank-and-file-in-combat-b-What-they-are-doing-how-they-do-it
 gutenberg_issued: '2023-03-26'
 identifiers:
   gutenberg: '70383'
